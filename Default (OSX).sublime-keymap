@@ -1,0 +1,5 @@
+[
+    { "keys": ["command+shift+i"], "command": "reindent"},
+    { "keys": ["option+shift+a"], "command": "css_comb" },
+    { "keys": ["option+a"], "command": "sort_lines", "args": {"case_sensitive": false} }
+]

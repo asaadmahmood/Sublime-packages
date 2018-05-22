@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		"dist"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+			"/usr/local/bin"
+		],
+		"windows":
+		[
+		]
+	},
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": true
+}
